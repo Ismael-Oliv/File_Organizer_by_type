@@ -2,3 +2,4 @@ venv
 venv_windows
 build
 dist
+run.spec

@@ -1,16 +1,12 @@
 # Explicação
 
-​		A aplicação em questão foi criada para resolver um problema pessoal que eu tive onde precisei encontrar um arquivo em uma pasta com diversos outros arquivo de diferentes tipos, pela falta de organização demorei um pouco para encontra-lo, por esse motivo criei um organizador de arquivos.
-
-
+​ A aplicação em questão foi criada para resolver um problema pessoal que eu tive onde precisei encontrar um arquivo em uma pasta com diversos outros arquivo de diferentes tipos, pela falta de organização demorei um pouco para encontra-lo, por esse motivo criei um organizador de arquivos.
 
 ### Download
 
-Windows - [ link ]
+Windows - [ <a href="https://github.com/Ismael-Oliv/File_Organizer_by_type/raw/main/windows_version/Organizador%20de%20Arquivos.exe">Baixar</a> ]
 
 Linux - [ Indisponivel ]
-
-
 
 ### Executar
 
@@ -21,8 +17,6 @@ Dentro de uma pasta de sua preferencia, rodar os comandos:
 `cd ./File_Organizer_by_type`
 
 `python run.py`
-
-
 
 ###### Contatos
 
